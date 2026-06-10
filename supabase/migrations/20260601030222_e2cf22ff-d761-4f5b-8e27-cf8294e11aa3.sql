@@ -1,0 +1,1 @@
+ALTER VIEW public.team_upcoming_matches SET (security_invoker = true);

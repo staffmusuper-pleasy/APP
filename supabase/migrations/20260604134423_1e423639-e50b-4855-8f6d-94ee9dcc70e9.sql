@@ -1,0 +1,1 @@
+SELECT cron.unschedule('refresh-football-data-2h');
